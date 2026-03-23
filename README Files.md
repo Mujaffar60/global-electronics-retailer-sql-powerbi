@@ -1,17 +1,20 @@
 # Global Electronics Retail-Inventory & Sales
 
 ## Table of Contents
-- <a href="#Overview">Overview</a>
-- <a href="#Objective">Objective</a>
-- <a href="#Business Problem">Business Problem</a>
-- <a href="#Tools & Technology">Tools & Technology</a>
-- <a href="#Research Questions">Research Questions</a>
-- <a href="#Key Findings">Key Findings</a>
-- <a href="#Final Recommendations">Final Recommendations</a>
-- <a href="#Author & Contact">Author & Contact</a>
+- <a href="#overview">Overview</a>
+- <a href="#objective">Objective</a>
+- <a href="#business-problem">Business Problem</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools-technology">Tools & Technology</a>
+- <a href="#project-structure">Project Structure</a>
+- <a href="#dashboard">Dashboard</a>
+- <a href="#research-questions">Research Questions</a>
+- <a href="#key-findings">Key Findings</a>
+- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#author-contact">Author & Contact</a>
 
 
-## Project Overview
+<h2><a id="project-overview"></a>Project Overview</h2>
 
 This project presents an interactive **Power BI dashboard** developed to analyze the sales performance of a global electronics retailer. The dashboard integrates multiple business datasets including customers, products, and Sales to deliver insights across three major business areas:
 * Sales performance trends
@@ -19,7 +22,8 @@ This project presents an interactive **Power BI dashboard** developed to analyze
 * Customer demographics and behavior
 
 
-## Objective
+<h2><a id="objective"></a>Objective</h2>
+
 
 The objective of this dashboard is to transform raw transactional retail data into meaningful insights that support data-driven decision-making for business stakeholders.
 
@@ -32,7 +36,7 @@ The report consists of three analytical views:
 Together, these views provide a comprehensive understanding of revenue drivers, customer segments, and product-level opportunities.
 
 
-## Business Problem
+<h2><a id="business-problem"></a>Business Problem</h2>
 
 Retail organizations operate across multiple countries, product categories, and customer segments. However, without centralized analytics, it becomes difficult to identify:
 
@@ -44,17 +48,21 @@ Retail organizations operate across multiple countries, product categories, and 
 The business needed a centralized interactive dashboard that enables stakeholders to monitor performance KPIs, detect trends early, and make strategic decisions regarding sales planning, customer targeting, and product optimization.
 
 
-## Dataset
+<h2><a id="dataset"></a>Dataset</h2>
+
 - Multiple CSV files located in `CSV Files` folder(Products, Customers, Sales)
 - Summary table created from ingested data and used for analysis
 
 
-## Tools & Technology
+<h2><a id="tools-technology"></a>Tools & Technology</h2>
+
 -SQL(Aggregate Function, Joins, Filtering, Case Statement, Subqueries)
 -Power BI(Data Modeling, DAX Measures, Interactive Filters & Slicers, Interactive Visualization)
 -Github
 
-## Project Structure
+
+<h2><a id="project-structure"></a>Project Structure</h2>
+
 ```
 global-electronics-retailer/
 
@@ -80,7 +88,7 @@ Images/                        # Dashboard png
 
 
 ---
-## Dashboard
+<h2><a id="dashboard"></a>Dashboard</h2>
 
 ![Sales Performance Analysis](Images/Sales%20Performance%20Analysis.png)
 
@@ -90,7 +98,7 @@ Images/                        # Dashboard png
 
 ---
 
-## Research Questions
+<h2><a id="research-questions"></a>Research Questions</h2>
 
 ### Sales Performance Questions
 
@@ -114,7 +122,7 @@ Images/                        # Dashboard png
 * Is there a gender-based difference in customer participation?
 
 
-## Key Findings
+<h2><a id="key-findings"></a>Key Findings</h2>
 
 The analysis revealed several important business insights:
 
@@ -140,7 +148,7 @@ The analysis revealed several important business insights:
 * A small number of high-value customers contribute disproportionately to total revenue
 
 
-## Final Recommendations
+<h2><a id="final-recommendations"></a>Final Recommendations</h2>
 
 * Focus expansion strategies on high-performing markets such as the United States
 * Increase inventory investment in top-performing categories like Computers and Home Appliances
@@ -151,10 +159,12 @@ The analysis revealed several important business insights:
 
 Implementing these strategies can help improve revenue performance, optimize product portfolio decisions, and strengthen customer engagement initiatives.
 
+<h2><a id="author-contact"></a>Author & Contact</h2>
 
-## Author & Contact
 **Mujaffar Husain**
+
 Email: mujaffar019@Gmail.com
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mujaffar06)
 
 
