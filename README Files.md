@@ -56,9 +56,9 @@ The business needed a centralized interactive dashboard that enables stakeholder
 
 <h2><a id="tools-technology"></a>Tools & Technology</h2>
 
--SQL(Aggregate Function, Joins, Filtering, Case Statement, Subqueries)
--Power BI(Data Modeling, DAX Measures, Interactive Filters & Slicers, Interactive Visualization)
--Github
+- SQL(Aggregate Function, Joins, Filtering, Case Statement, Subqueries)
+- Power BI(Data Modeling, DAX Measures, Interactive Filters & Slicers, Interactive Visualization)
+- Github
 
 
 <h2><a id="project-structure"></a>Project Structure</h2>
